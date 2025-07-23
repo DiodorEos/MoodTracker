@@ -30,10 +30,11 @@ To run the Mood Tracker console application:
 
 1.  Ensure you have a Java Development Kit (JDK) installed.
 2.  Download the `MoodTrackerApp.jar` file from this repository.
-3.  Execute the application by double-clicking or through console, in the directory of the downloaded .jar file:
+3.  Execute the application by opening the console on the the downloaded file's directory and write:
 ```bash
 java -jar MoodTrackerApp.jar
 ```
+4. Follow the console menu instructions.
 <br>
 <hr />
 <p align="center">Find more of my projects on <a href="https://www.github.com/DiodorEos">my GitHub profile</a>, or find me on <a href="https://www.linkedin.com/in/orfeas-ouz/">LinkedIn</a> to connect.</p>
