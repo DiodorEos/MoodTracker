@@ -4,6 +4,8 @@
 This repository showcases the **MoodTracker** console application, a lab exercise I completed as part of my **IBM Java Professional Developer** course on [Coursera](https://www.coursera.org/professional-certificates/java-developer). This project provided an invaluable
 opportunity to translate theoretical knowledge into practical application.
 
+##### 🔖 **Keywords**: `IBM` `Java` `Object-Oriented Programming` `Console Application` `Software Engineering` `JAR Deployment` `Clean Code`
+
 ## 🛠️ Skill Honing
 The foundational code for this exercise was initially provided, but I extensively refactored and enhanced it to align with best practices in software engineering, as I learned throughout the course. My primary
 objective was to implement better **code management** via a strong emphasis on **modularity**, utilizing **helper methods**, and ensuring the overall application followed the principles of **clean code**.
@@ -14,7 +16,7 @@ a complete application within the JAVA environment.
 
 ## 💡 Lessons Learned
 This **hands-on practice** with a substantial project designed by **IBM**'s corporate tutors deepened my understanding across several key areas, as I successfully completed the corresponding module of the course. <br> <br>
-You can verify my [IBM module: Object Oriented Programming in Java here](https://www.coursera.org/account/accomplishments/verify/VAGF7OPDL74Y) <br> <br> <br>
+You may verify my [IBM module: Object Oriented Programming in Java here](https://www.coursera.org/account/accomplishments/verify/VAGF7OPDL74Y) <br> <br> <br>
 Throughout the course, and this particular module, I gained significant knowledge in:
 - **Object-oriented programming (OOP)**, refining my approach to modular and clean design
 - Solidifying my grasp of **secure development principles** while working within the **JDK** ecosystem
@@ -35,7 +37,6 @@ To run the Mood Tracker console application:
 java -jar MoodTrackerApp.jar
 ```
 4. Follow the console menu instructions.
-<br>
 <hr />
 <p align="center">Find more of my projects on <a href="https://www.github.com/DiodorEos">my GitHub profile</a>, or find me on <a href="https://www.linkedin.com/in/orfeas-ouz/">LinkedIn</a> to connect.</p>
 <hr />
